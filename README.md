@@ -14,8 +14,17 @@ Work in process.<P>
 <A href='notebooks/Programming%20Exercise%207%20-%20K-means%20Clustering%20and%20Principal%20Component%20Analysis.ipynb'>Exercise 7 - K-means Clustering and Principal Component Analysis</A><BR>
 <A href='notebooks/Programming%20Exercise%208%20-%20Anomaly%20Detection%20and%20Recommender%20Systems.ipynb'>Exercise 8 - Anomaly Detection and Recommender Systems</A><BR>
 
-##### References:
+## How it works :
+You need [jupyter](http://jupyter.org/) in order to run / edit these exercices.<br/>
+You can install it with python package manager with the command `pip install jupyter`<br/>
+Then in directory notebooks simply type `jupyter notebook`
+
+### Dependencies :
+in progress
+Python packages : pandas numpy matplotlib seaborn scikit-learn 
+
+## References:
 
 https://www.coursera.org/learn/machine-learning/home/welcome
 
-Forked from : https://github.com/JWarmenhoven/Coursera-Machine-Learning
+Forked from [here](https://github.com/JWarmenhoven/Coursera-Machine-Learning)
