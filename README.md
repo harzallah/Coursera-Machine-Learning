@@ -19,4 +19,5 @@ Python packages : pandas numpy matplotlib seaborn scikit-learn
 
 Course main page is [here](https://www.coursera.org/learn/machine-learning/home/welcome)<br/>
 Forked from [here](https://github.com/JWarmenhoven/Coursera-Machine-Learning)<br/>
-SciPy Tutorial forked from [here](https://github.com/kuleshov/cs228-material)
+Python tutorial forked from [here](https://github.com/rajathkumarmp/Python-Lectures)<br/>
+SciPy tutorial forked from [here](https://github.com/kuleshov/cs228-material)
